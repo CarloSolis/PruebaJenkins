@@ -16,7 +16,6 @@ public class TestClass {
     protected int phone;
     protected String email;
     protected String password;
-    public String test;
 
     public TestClass() {
     }
