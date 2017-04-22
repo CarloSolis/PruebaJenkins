@@ -11,7 +11,7 @@ package testjen;
  */
 public class TestClass {
 
-    protected int id;
+    public int id;
     protected String name;
     protected int phone;
     protected String email;
